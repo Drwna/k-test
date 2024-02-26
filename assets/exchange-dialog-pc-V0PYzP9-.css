@@ -1,0 +1,1 @@
+.exchange-dialog{--el-dialog-bg-color: #191919;border-radius:20px}.exchange-dialog.el-overlay{background-color:#000c}.exchange-dialog .el-dialog__header{margin:0;padding:20px 20px 0 0;display:flex;justify-content:flex-end;cursor:pointer}.exchange-dialog .el-dialog__header .el-dialog__headerbtn{display:none}.exchange-dialog .el-dialog__body{height:calc(100% - 56px);padding:0}

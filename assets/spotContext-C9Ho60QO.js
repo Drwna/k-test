@@ -1,0 +1,1 @@
+import{a as o}from"./index-DOWG_QFa.js";const i=o({coinToCoinKeepDecimalForCoin:8,coinToCoinKeepDecimalForCurrency:4,currentExchangePrice:0,keepDecimalCoinCode:8,totalAmount:"0",totalVolume:0,riseAndFall:0,limitOrMarket:"limit",liteOrPro:"LITE",amountLeft:0,amountRight:0,priceCoinLimit:"0",amountCoinLimit:"0",orderHistoryData:[],tradeHIstoryData:[],fundsData:[]});export{i as s};

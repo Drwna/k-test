@@ -1,0 +1,1 @@
+import{b as l}from"./index-DOWG_QFa.js";const i=e=>{const t=document.createElement("div");return document.body.append(t),async s=>{let n;typeof e=="function"?n=(await e()).default:n=e;let o=l(n,{...s,visible:!0,onClose:()=>c()});o.mount(t);const c=()=>{setTimeout(()=>{o==null||o.unmount(),o=null,t.remove()},1e3)}}};export{i as o};
